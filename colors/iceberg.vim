@@ -24,7 +24,7 @@ hi! Constant ctermfg=140
 hi! CursorLineNr ctermfg=253
 " Used to highlight unused variables and errors
 hi! CocUnderline ctermfg=060
-hi! CocErrorHighlight ctermfg=203
+"hi! CocErrorHighlight ctermfg=203
 hi! CocHighlightText ctermbg=0
 "hi! CocHighlightRead ctermbg=140
 "hi! CocHighlightWrite ctermbg=140
