@@ -39,9 +39,9 @@ hi! DiffChange ctermbg=23 ctermfg=159 guibg=#384851 guifg=#b3c3cc
 hi! DiffDelete ctermbg=95 ctermfg=224 guibg=#53343b guifg=#ceb0b6
 hi! DiffText cterm=NONE ctermbg=30 ctermfg=195 gui=NONE guibg=#5b7881 guifg=#c6c8d1
 hi! Directory ctermfg=109 guifg=#89b8c2
-hi! Error ctermfg=203 guibg=#161821 guifg=#e27878
-hi! ErrorMsg ctermbg=234 ctermfg=203 guibg=#161821 guifg=#e27878
-hi! WarningMsg ctermbg=234 ctermfg=203 guibg=#161821 guifg=#e27878
+"hi! Error ctermfg=203 guibg=#161821 guifg=#e27878
+"hi! ErrorMsg ctermbg=234 ctermfg=203 guibg=#161821 guifg=#e27878
+"hi! WarningMsg ctermbg=234 ctermfg=203 guibg=#161821 guifg=#e27878
 hi! NonText ctermfg=053
 hi! SpecialKey ctermbg=234 ctermfg=216 guibg=#161821 guifg=#242940
 hi! Folded ctermbg=0 ctermfg=7
