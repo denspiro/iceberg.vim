@@ -61,7 +61,7 @@ hi! Question ctermfg=150 guifg=#b4be82
 " Selection colors for Quickfix window
 hi! QuickFixLine ctermbg=60 ctermfg=7
 hi! Search ctermfg=6 ctermbg=0
-hi! SignColumn ctermbg=235 ctermfg=239 guibg=#1e2132 guifg=#444b71
+"hi! SignColumn ctermbg=0 ctermfg=239 guibg=#1e2132 guifg=#444b71
 hi! Special ctermfg=150 guifg=#b4be82
 hi! SpellBad ctermbg=95 ctermfg=252 gui=undercurl guisp=#e27878
 hi! SpellCap ctermbg=24 ctermfg=252 gui=undercurl guisp=#84a0c6
