@@ -68,13 +68,10 @@ hi! SpellCap ctermbg=24 ctermfg=252 gui=undercurl guisp=#84a0c6
 hi! SpellLocal ctermbg=23 ctermfg=252 gui=undercurl guisp=#89b8c2
 hi! SpellRare ctermbg=97 ctermfg=252 gui=undercurl guisp=#a093c7
 hi! Statement ctermfg=110 gui=NONE guifg=#84a0c6
-hi! StatusLine cterm=reverse ctermbg=234 ctermfg=4 gui=reverse guibg=#17171b guifg=#818596 term=reverse
-hi! StatusLineTerm cterm=reverse ctermbg=234 ctermfg=4 gui=reverse guibg=#17171b guifg=#818596 term=reverse
-hi! StatusLineNC cterm=reverse ctermfg=4
-hi! StatusLineTermNC cterm=reverse ctermbg=238 ctermfg=4 gui=reverse guibg=#3e445e guifg=#0f1117
 hi! StorageClass ctermfg=110 guifg=#84a0c6
 hi! String ctermfg=109 guifg=#89b8c2
 hi! Structure ctermfg=110 guifg=#84a0c6
+hi! StatusLineNC ctermbg=233 ctermfg=233 gui=NONE
 hi! TabLine cterm=NONE ctermbg=245 ctermfg=234 gui=NONE guibg=#818596 guifg=#17171b
 hi! TabLineFill cterm=reverse ctermbg=234 ctermfg=245 gui=reverse guibg=#17171b guifg=#818596
 hi! TabLineSel cterm=NONE ctermbg=234 ctermfg=252 gui=NONE guibg=#161821 guifg=#9a9ca5
@@ -82,7 +79,7 @@ hi! Title ctermfg=216 gui=NONE guifg=#e2a478
 hi! Todo ctermbg=234 ctermfg=150 guibg=#45493e guifg=#b4be82
 hi! Type ctermfg=110 gui=NONE guifg=#84a0c6
 hi! Underlined cterm=underline ctermfg=110 gui=underline guifg=#84a0c6 term=underline
-hi! VertSplit cterm=NONE ctermbg=NONE ctermfg=NONE gui=NONE
+hi! VertSplit cterm=NONE ctermbg=NONE ctermfg=NONE gui=NONE guibg=NONE guifg=NONE
 hi! Visual ctermbg=236 guibg=#272c42
 hi! WildMenu ctermbg=255 ctermfg=234 guibg=#d4d5db guifg=#17171b
 hi! diffAdded ctermfg=150 guifg=#b4be82
